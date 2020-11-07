@@ -1,0 +1,56 @@
+.it{
+    width:100%;
+    height:70%;
+    position: absolute;
+    top:60px;
+    background-color:white;
+  }
+
+  
+.fod{
+  top:10px;
+  position: absolute;
+  left:200px;
+  font-family: 'Lato', sans-serif;
+  color:black;
+}
+
+.fah{
+  top:10px;
+  position: absolute;
+  left:630px;
+  font-family: 'Lato', sans-serif;
+  color:black;
+}
+
+.ec{
+  top:250px;
+  position: absolute;
+  left:980px;
+  font-family: 'Lato', sans-serif;
+  color:black;
+}
+
+.sta{
+  top:250px;
+  position: absolute;
+  left:630px;
+  font-family: 'Lato', sans-serif;
+  color:black;
+}
+
+.co{
+  top:10px;
+  position: absolute;
+  left:1050px;
+  font-family: 'Lato', sans-serif;
+  color:black;
+}
+
+.gro{
+  top:250px;
+  position: absolute;
+  left:200px;
+  font-family: 'Lato', sans-serif;
+  color:black;
+}

@@ -1,0 +1,47 @@
+
+
+  .sele{
+      font-size: 50px;
+      color:white;
+  }
+  
+  .cut{
+    font-size: 30px;
+     color:white;
+  }
+
+  .delt{
+    font-size: 30px;
+    color: white;
+
+  }
+
+  .sho{
+    font-size: 30px;
+    color:white;
+
+
+  }
+ 
+   .regni{
+    
+    background-image: url(cover.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top:59px;
+    
+ }  
+
+ .donn{
+  height: 55%;
+  width: 40%;
+  position: absolute;
+  top:59px;
+  left: 385px;
+  background-color:black;
+  border: 2px solid white;
+ 
+ }

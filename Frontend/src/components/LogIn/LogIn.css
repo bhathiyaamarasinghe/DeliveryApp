@@ -1,0 +1,49 @@
+.LoginForm{
+    max-width: 240px;
+    margin: auto;     
+    height: 100% ;  
+    color: white;
+  }
+
+.header{
+    /* font-family: 'Times New Roman', Times, serif; */
+     font-style: normal;
+    font-size: normal; 
+    color: whitesmoke;
+    /* background-position:; */
+  }
+
+ .ful{
+    
+    background-image: url(cover.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    
+ } 
+
+.cardo{
+  background-color: black;
+  height : 78%;
+  width: 20%;
+  position: absolute;
+  left: 150px;
+  top: 59px;
+
+}
+
+.mg {
+  color: #cc0000;
+  margin-bottom: 12px;
+}
+
+
+.but {
+  background-color: red;
+  border-color:red;
+  font-weight: bold;
+  padding: 5px 1px;
+  color: #ffffff;
+}
